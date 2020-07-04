@@ -1,0 +1,80 @@
+{
+  "configVersion": 1,
+  "timestamp": 1593862297043,
+  "index": "https://victoriablat.github.io/PWA-ang-test/index.html",
+  "assetGroups": [
+    {
+      "name": "app",
+      "installMode": "prefetch",
+      "updateMode": "prefetch",
+      "urls": [
+        "https://victoriablat.github.io/PWA-ang-test/favicon.ico",
+        "https://victoriablat.github.io/PWA-ang-test/index.html",
+        "https://victoriablat.github.io/PWA-ang-test/main-es2015.2abb283c67b3c54da2ae.js",
+        "https://victoriablat.github.io/PWA-ang-test/main-es5.2abb283c67b3c54da2ae.js",
+        "https://victoriablat.github.io/PWA-ang-test/manifest.webmanifest",
+        "https://victoriablat.github.io/PWA-ang-test/polyfills-es2015.f332a089ad1600448873.js",
+        "https://victoriablat.github.io/PWA-ang-test/polyfills-es5.177e85a9724683782539.js",
+        "https://victoriablat.github.io/PWA-ang-test/runtime-es2015.0dae8cbc97194c7caed4.js",
+        "https://victoriablat.github.io/PWA-ang-test/runtime-es5.0dae8cbc97194c7caed4.js",
+        "https://victoriablat.github.io/PWA-ang-test/styles.3ff695c00d717f2d2a11.css"
+      ],
+      "patterns": []
+    },
+    {
+      "name": "assets",
+      "installMode": "lazy",
+      "updateMode": "prefetch",
+      "urls": [
+        "https://victoriablat.github.io/PWA-ang-test/assets/icons/icon-128x128.png",
+        "https://victoriablat.github.io/PWA-ang-test/assets/icons/icon-144x144.png",
+        "https://victoriablat.github.io/PWA-ang-test/assets/icons/icon-152x152.png",
+        "https://victoriablat.github.io/PWA-ang-test/assets/icons/icon-192x192.png",
+        "https://victoriablat.github.io/PWA-ang-test/assets/icons/icon-384x384.png",
+        "https://victoriablat.github.io/PWA-ang-test/assets/icons/icon-512x512.png",
+        "https://victoriablat.github.io/PWA-ang-test/assets/icons/icon-72x72.png",
+        "https://victoriablat.github.io/PWA-ang-test/assets/icons/icon-96x96.png"
+      ],
+      "patterns": []
+    }
+  ],
+  "dataGroups": [],
+  "hashTable": {
+    "https://victoriablat.github.io/PWA-ang-test/assets/icons/icon-128x128.png": "dae3b6ed49bdaf4327b92531d4b5b4a5d30c7532",
+    "https://victoriablat.github.io/PWA-ang-test/assets/icons/icon-144x144.png": "b0bd89982e08f9bd2b642928f5391915b74799a7",
+    "https://victoriablat.github.io/PWA-ang-test/assets/icons/icon-152x152.png": "7479a9477815dfd9668d60f8b3b2fba709b91310",
+    "https://victoriablat.github.io/PWA-ang-test/assets/icons/icon-192x192.png": "1abd80d431a237a853ce38147d8c63752f10933b",
+    "https://victoriablat.github.io/PWA-ang-test/assets/icons/icon-384x384.png": "329749cd6393768d3131ed6304c136b1ca05f2fd",
+    "https://victoriablat.github.io/PWA-ang-test/assets/icons/icon-512x512.png": "559d9c4318b45a1f2b10596bbb4c960fe521dbcc",
+    "https://victoriablat.github.io/PWA-ang-test/assets/icons/icon-72x72.png": "c457e56089a36952cd67156f9996bc4ce54a5ed9",
+    "https://victoriablat.github.io/PWA-ang-test/assets/icons/icon-96x96.png": "3914125a4b445bf111c5627875fc190f560daa41",
+    "https://victoriablat.github.io/PWA-ang-test/favicon.ico": "22f6a4a3bcaafafb0254e0f2fa4ceb89e505e8b2",
+    "https://victoriablat.github.io/PWA-ang-test/index.html": "796484e27f899463a426fd5a3297284478a1cfa4",
+    "https://victoriablat.github.io/PWA-ang-test/main-es2015.2abb283c67b3c54da2ae.js": "417d05826534ef4de0410928d626f4f9c0466915",
+    "https://victoriablat.github.io/PWA-ang-test/main-es5.2abb283c67b3c54da2ae.js": "ef161759a61001ff195a9866b6b1312cf8406c9f",
+    "https://victoriablat.github.io/PWA-ang-test/manifest.webmanifest": "21d94f10de58041101e1914b402f59d5646b1918",
+    "https://victoriablat.github.io/PWA-ang-test/polyfills-es2015.f332a089ad1600448873.js": "72ad4ccc0a3916ae4598199447cdeadd6d380570",
+    "https://victoriablat.github.io/PWA-ang-test/polyfills-es5.177e85a9724683782539.js": "8aa26ea87b9958c6bd13b7c257c0e9940438e684",
+    "https://victoriablat.github.io/PWA-ang-test/runtime-es2015.0dae8cbc97194c7caed4.js": "a9aafcf49f49145093fc831efd9b8e2f6c71bb9c",
+    "https://victoriablat.github.io/PWA-ang-test/runtime-es5.0dae8cbc97194c7caed4.js": "a9aafcf49f49145093fc831efd9b8e2f6c71bb9c",
+    "https://victoriablat.github.io/PWA-ang-test/styles.3ff695c00d717f2d2a11.css": "da39a3ee5e6b4b0d3255bfef95601890afd80709"
+  },
+  "navigationUrls": [
+    {
+      "positive": true,
+      "regex": "^\\/.*$"
+    },
+    {
+      "positive": false,
+      "regex": "^\\/(?:.+\\/)?[^/]*\\.[^/]*$"
+    },
+    {
+      "positive": false,
+      "regex": "^\\/(?:.+\\/)?[^/]*__[^/]*$"
+    },
+    {
+      "positive": false,
+      "regex": "^\\/(?:.+\\/)?[^/]*__[^/]*\\/.*$"
+    }
+  ]
+}
